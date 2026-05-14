@@ -1,0 +1,43 @@
+.admin-navbar{
+
+  width: 100%;
+
+  background: #111827;
+
+  padding: 18px 30px;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  color: white;
+
+  margin-bottom: 30px;
+
+}
+
+.admin-links{
+
+  display: flex;
+
+  gap: 20px;
+
+}
+
+.admin-links a{
+
+  color: white;
+
+  text-decoration: none;
+
+  font-weight: 500;
+
+}
+
+.admin-links a:hover{
+
+  color: #60a5fa;
+
+}
